@@ -1,4 +1,4 @@
-# Question_Generator_from_Text
+# Question_Generation_from_Text
 
 This project focuses on automatically generating questions from a given input text using Natural Language Processing (NLP) techniques and pre-trained language models.
 
